@@ -1,5 +1,6 @@
 {
   "name": "simple-light-react",
+  "homepage": "https://comandante-aguacate.github.io/loti-web/",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
